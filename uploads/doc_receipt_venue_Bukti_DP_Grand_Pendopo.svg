@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="460" viewBox="0 0 760 460">
+  <rect width="760" height="460" fill="#f8fafc"/>
+  <rect x="32" y="32" width="696" height="396" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <rect x="32" y="32" width="696" height="72" rx="12" fill="#0f172a"/>
+  <text x="64" y="75" fill="#ffffff" font-family="sans-serif" font-size="22" font-weight="bold">BUKTI TRANSFER PEMBAYARAN VENDOR</text>
+  <text x="64" y="148" fill="#64748b" font-family="sans-serif" font-size="13">DITERIMA OLEH VENDOR</text>
+  <text x="64" y="174" fill="#0f172a" font-family="sans-serif" font-size="20" font-weight="bold">Grand Pendopo Nusantara Ballroom</text>
+  <line x1="64" y1="202" x2="696" y2="202" stroke="#e2e8f0"/>
+  <text x="64" y="240" fill="#64748b" font-family="sans-serif" font-size="13">NOMINAL PEMBAYARAN</text>
+  <text x="64" y="274" fill="#0f766e" font-family="monospace" font-size="30" font-weight="bold">Rp 65.000.000</text>
+  <text x="64" y="330" fill="#64748b" font-family="sans-serif" font-size="13">NOMOR REFERENSI AUDIT</text>
+  <text x="64" y="354" fill="#0f172a" font-family="monospace" font-size="15">TRX-BCA-2026-00841</text>
+  <text x="420" y="330" fill="#64748b" font-family="sans-serif" font-size="13">TANGGAL TRANSAKSI</text>
+  <text x="420" y="354" fill="#0f172a" font-family="sans-serif" font-size="15">2026-10-20</text>
+  <rect x="520" y="232" width="160" height="44" rx="6" fill="#ecfdf5" stroke="#10b981"/>
+  <text x="600" y="260" text-anchor="middle" fill="#047857" font-family="sans-serif" font-size="15" font-weight="bold">TERVERIFIKASI</text>
+</svg>
